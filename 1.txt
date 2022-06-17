@@ -1,0 +1,10 @@
+js: kiểu dữ liệu, hàm ẩn danh là gì mô tả cách sữ dụng ?
+em đã làm việc với callback chưa
+em làm es5 hay es6 trở lên. em có phân biệt es5, es6 khác khau chổ nào không (so sánh về syntack)
+em có nghe khái niệm về calback hell chưa. Vì sau phải sữ dụng callback hell (vì để xử lý bất đồng bộ)
+js là ngôn ngữ bất đồng bộ hay đồng bộ, bất đồng bộ, đồng bộ nghĩa là gì
+trong es 6 có mấy cách để khai báo biến (3 cách)
+nêu khác biệt giữa var và let
+em đã nge từ khóa hosting trong js chưa, nó là gì
+so sánh 2 dấu bằng và 3 dấu bằng khác nhau chổ nào
+trong trường hợp gán lại giá trị mới cho biến constain thì sẽ có hiện tượng gì
